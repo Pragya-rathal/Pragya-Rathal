@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Pragya Rathal 👋
 
-<!--
-**Pragya-rathal/Pragya-Rathal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Undergraduate researcher at IIT (BHU) working at the intersection of
+**Machine Learning, Robotics, Signal Processing and Wireless Systems**.
 
-Here are some ideas to get you started:
+### Research Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Federated & Distributed Learning
+- Computer Vision & Vision-Language Models
+- LiDAR Perception & Autonomous Navigation
+- EMG Signal Processing & Motor-State Forecasting
+- Reinforcement Learning for Wireless / UAV Systems
+
+### Selected Work
+
+🔹 **TopoCo / Hierarchical Federated Learning**
+Topology-adaptive federated learning for UAV-IoT networks with
+primal-dual optimization, adaptive compression and client selection.
+
+🔹 **EMG Gait Forecasting**
+Muscle-synergy-based anticipatory gait forecasting using NMF,
+synergy dynamics and neural sequence models.
+
+🔹 **LiDAR Traversability**
+ROS2/LiDAR perception pipeline using Patchwork++ and terrain analysis
+for autonomous navigation.
+
+🔹 **UAV-RIS Reinforcement Learning**
+DRL-based optimization of RIS-assisted UAV wireless systems.
+
+### Technologies
+
+Python · C++ · PyTorch · ROS2 · OpenCV · NumPy · SciPy  
+Federated Learning · Deep Learning · Reinforcement Learning  
+LiDAR · Signal Processing · Computer Vision · Linux · Git · Docker
+
+### Currently Working On
+
+- Autonomous LiDAR perception and terrain traversability
+- EMG-based anticipatory gait prediction
+- Communication-efficient federated learning
+
+📫 [LinkedIn](YOUR_LINKEDIN) · [Resume](YOUR_RESUME_LINK)
