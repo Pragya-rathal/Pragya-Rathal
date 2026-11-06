@@ -80,7 +80,7 @@ I value work that connects algorithmic ideas to functioning robotic systems, wit
 IIT (BHU), Varanasi · India
 
 - [LinkedIn](https://www.linkedin.com/in/pragya-rathal-6b97a5321/)
-- [CV](https://drive.google.com/file/d/1a2JFm_n-Xl6lRi1VUmJLOJTmLxGDvoLp/view?usp=sharing)
+- [Resume](https://drive.google.com/file/d/1iod6_lznt7o4gU8SUy7Yoapkj2mTRfSm/view?usp=sharing)
 - [GitHub](https://github.com/Pragya-rathal)
 
 *Interested in research discussions and opportunities in autonomous robotics, robot perception, navigation, and human-centred/social robotics.*
