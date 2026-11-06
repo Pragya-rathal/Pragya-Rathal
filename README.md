@@ -36,8 +36,7 @@ Deep reinforcement learning for joint optimization of RIS configuration, UAV pos
 ### 🔭 Currently Working On
 
 - Autonomous LiDAR perception and terrain traversability
-- EMG-based anticipatory gait prediction
-- Communication-efficient federated learning
+
 
 ### 📫 Connect
 
