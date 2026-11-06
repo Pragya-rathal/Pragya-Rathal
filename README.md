@@ -3,7 +3,7 @@
 
 I am a third-year undergraduate in Civil Engineering at **IIT (BHU), Varanasi**, working toward research in **autonomous robotics and socially intelligent robots**. My interests lie in the systems that allow robots to perceive their surroundings, understand dynamic environments, make decisions, and act reliably around people.
 
-My current work is concentrated in **LiDAR-based 3D perception, ROS 2 autonomy pipelines, learning-based navigation, and human movement modelling**. I am particularly interested in extending these foundations toward **human-aware navigation, human–robot interaction, and social robot behaviour**.
+My current work is concentrated in **LiDAR-based 3D perception, learning-based navigation, and human movement modelling**. I am particularly interested in extending these foundations toward **human-aware navigation, human–robot interaction, and social robot behaviour**.
 
 ---
 
