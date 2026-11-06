@@ -1,43 +1,86 @@
-# Hi, I'm Pragya Rathal 👋
+# Pragya Rathal
 
-Undergraduate researcher at **IIT (BHU)** working at the intersection of  
-**Machine Learning, Robotics, Signal Processing, and Wireless Systems.**
+**Robotics | Autonomous Systems | Robot Perception | Learning-based Control**
 
-### 🔬 Research Interests
+I am a third-year undergraduate in Civil Engineering at **IIT (BHU), Varanasi**, working toward research in **autonomous robotics and socially intelligent robots**. My interests lie in the systems that allow robots to perceive their surroundings, understand dynamic environments, make decisions, and act reliably around people.
 
-- Federated & Distributed Learning
-- Computer Vision & Vision-Language Models
-- LiDAR Perception & Autonomous Navigation
-- EMG Signal Processing & Motor-State Forecasting
-- Reinforcement Learning for Wireless / UAV Systems
+My current work is concentrated in **LiDAR-based 3D perception, ROS 2 autonomy pipelines, learning-based navigation, and human movement modelling**. I am particularly interested in extending these foundations toward **human-aware navigation, human–robot interaction, and social robot behaviour**.
 
-### 🚀 Selected Work
+---
 
-🔹 **TopoCo / Hierarchical Federated Learning**  
-Topology-adaptive federated learning for UAV-IoT networks using primal-dual optimization, adaptive compression, dynamic client participation, and topology-aware client selection.
+## Research interests
 
-🔹 **EMG Gait Forecasting**  
-Muscle-synergy-based anticipatory gait forecasting using NMF, synergy dynamics, and neural sequence models.
+- **Robot perception:** 3D LiDAR, point-cloud processing, ground segmentation, terrain understanding, visual representations.
+- **Autonomous navigation:** traversability estimation, local planning, trajectory tracking, perception-to-action pipelines.
+- **Learning for robotics:** reinforcement learning, representation learning, vision-based policies, sim-to-real questions.
+- **Social and human-centred robotics:** human-aware motion, locomotion and intent prediction, interactive robot systems.
 
-🔹 **LiDAR Traversability**  
-ROS2/LiDAR perception pipeline using Patchwork++ and terrain analysis for autonomous navigation and traversability estimation.
+## Selected robotics work
 
-🔹 **UAV-RIS Reinforcement Learning**  
-Deep reinforcement learning for joint optimization of RIS configuration, UAV positioning, transmit power, and wireless energy harvesting.
+### 3D LiDAR perception and terrain understanding
+Developing ROS 2 perception components around **Patchwork++** and Livox point clouds, with a focus on ground segmentation and terrain interpretation for mobile-robot navigation.
 
-### 🛠️ Technologies
+- Working with point-cloud processing, sensor-specific preprocessing, and ROS 2 integration.
+- Building a terrain-analysis pipeline that separates ground perception from downstream traversability estimation.
+- Exploring the use of ground geometry and obstacle structure to support navigation in constrained environments.
 
-**Programming:** Python · C++ · C · SQL · PySpark  
-**ML/AI:** PyTorch · Deep Learning · Computer Vision · Reinforcement Learning · NLP · Federated Learning  
-**Robotics:** ROS2 · LiDAR · OpenCV · RViz · Gazebo · CARLA · SUMO · Isaac Sim  
-**Signal Processing:** EMG · RF Signal Processing · NMF · Time-Series Analysis  
-**Tools:** Git · Docker · Linux · MATLAB · AutoCAD · Fusion 360
+[Patchwork++ / Livox work](https://github.com/Pragya-rathal/patchworkpluslivox) · [ROS implementation](https://github.com/Pragya-rathal/patchwork-plusplus-ros)
 
-### 🔭 Currently Working On
+### Learning-based visual navigation
+Investigating whether pretrained **Vision Transformer (ViT)** representations can provide useful state features for reinforcement learning in a visual navigation task.
 
-- Autonomous LiDAR perception and terrain traversability
+- Comparing image-based policy learning with policies using frozen ViT embeddings.
+- Implementing the experimental pipeline in PyTorch and Gymnasium.
+- Studying the relationship between visual representation quality and policy learning.
 
+[Project repository](https://github.com/Pragya-rathal/Perception-Aware-Reinforcement-Learning-using-Vision-Transformer-Features)
 
-### 📫 Connect
+### EMG-based locomotion modelling
+Building a signal-processing and learning pipeline for EMG windows, muscle-synergy analysis, and locomotion forecasting. This work connects human movement signals with predictive models—a direction I hope to develop further for human-aware and assistive robotics.
 
-[LinkedIn](https://www.linkedin.com/in/pragya-rathal-6b97a5321/) · [Resume](https://drive.google.com/file/d/1a2JFm_n-Xl6lRi1VUmJLOJTmLxGDvoLp/view?usp=sharing)
+- EMG preprocessing and window-level dataset construction.
+- Non-negative Matrix Factorization (NMF) for muscle-synergy extraction.
+- Temporal modelling and evaluation for anticipatory gait/locomotion prediction.
+
+[Preprocessing pipeline](https://github.com/Pragya-rathal/gait_preprocessing_pipeline) · [Forecasting work](https://github.com/Pragya-rathal/gait-hopefully-final)
+
+### UAV simulation and learning-based control
+Exploring simulation environments and learning methods for aerial robotics, including multi-agent reinforcement learning and UAV system optimisation.
+
+[UAV simulation work](https://github.com/Pragya-rathal/gym-pybullet-drones) · [UAV federated-learning simulation](https://github.com/Pragya-rathal/uav-fl-clustering-simulation)
+
+---
+
+## Technical toolkit
+
+| Area | Tools and methods |
+|---|---|
+| Robotics middleware | ROS 2, ROS, RViz, TF, rosbag, colcon |
+| Perception | 3D LiDAR, point clouds, Patchwork++, Open3D, OpenCV |
+| Learning | PyTorch, reinforcement learning, CNNs, Vision Transformers, sequence models |
+| Robotics & simulation | Gazebo, PyBullet, Gymnasium |
+| Programming | Python, C++, C |
+| Development | Linux, Git, CMake, Docker |
+
+## Current direction
+
+I am looking to deepen my research in **autonomous mobile robots and social robotics**, especially at the intersection of:
+
+1. Robust 3D perception and navigation in real-world environments.
+2. Human-aware navigation and prediction of human motion or intent.
+3. Learning-based robot decision-making from visual and multimodal observations.
+4. Perception and control architectures for robots operating safely and naturally around people.
+
+I value work that connects algorithmic ideas to functioning robotic systems, with careful evaluation in simulation and, where possible, on hardware.
+
+---
+
+## Contact
+
+IIT (BHU), Varanasi · India
+
+- [LinkedIn](https://www.linkedin.com/in/pragya-rathal-6b97a5321/)
+- [CV](https://drive.google.com/file/d/1a2JFm_n-Xl6lRi1VUmJLOJTmLxGDvoLp/view?usp=sharing)
+- [GitHub](https://github.com/Pragya-rathal)
+
+*Interested in research discussions and opportunities in autonomous robotics, robot perception, navigation, and human-centred/social robotics.*
