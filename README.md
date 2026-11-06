@@ -1,6 +1,5 @@
 # Pragya Rathal
 
-**Robotics | Autonomous Systems | Robot Perception | Learning-based Control**
 
 I am a third-year undergraduate in Civil Engineering at **IIT (BHU), Varanasi**, working toward research in **autonomous robotics and socially intelligent robots**. My interests lie in the systems that allow robots to perceive their surroundings, understand dynamic environments, make decisions, and act reliably around people.
 
@@ -81,6 +80,6 @@ IIT (BHU), Varanasi · India
 
 - [LinkedIn](https://www.linkedin.com/in/pragya-rathal-6b97a5321/)
 - [Resume](https://drive.google.com/file/d/1iod6_lznt7o4gU8SUy7Yoapkj2mTRfSm/view?usp=sharing)
-- [GitHub](https://github.com/Pragya-rathal)
+
 
 *Interested in research discussions and opportunities in autonomous robotics, robot perception, navigation, and human-centred/social robotics.*
